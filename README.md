@@ -25,17 +25,17 @@
  
  <h2><u><b>Installation</u></b></h2>
  
- Install using git bash<code> $git clone https://github.com/Akshay-Vs/Number-Guessing-game.git </code><br>
- os click download button 👇 <br>
- <a href="https://github.com/Akshay-Vs/Number-Guessing-game/archive/refs/heads/main.zip" target="blank"><img align="center" src="https://github.com/Akshay-Vs/resources/blob/main/src/download_bt.png" alt="blank" height="78" width="200" /></a>
+ Install using git bash<code> $git clone https://github.com/chavalasantosh/Num_Guessing-Game.gitt </code><br>
+ <button type="button">
+ <a href="https://github.com/chavalasantosh/Num_Guessing-Game.git" target="blank">
+ </button>
  
 <h2 align="left"><b>Connect with me</b></h4>
 <p align="left">
-<a href="https://twitter.com/@Akshayv69128812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Akshayv69128812" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/akshay-vs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="akshay-vs" height="30" width="40" /></a>
-<a href="https://instagram.com/akshay._.vs__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__akshay_v5__" height="30" width="40" /></a>
+<a href="https://twitter.com/@chavalasantosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@santoshchavala" height="30" width="40" /></a>
+<a href="https://instagram.com/chavalasantosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santoshchavala" height="30" width="40" /></a>
 </p>
  
 <h2 align='left'><u><b>License and Copyright</b></u></h2>
 Lisence: MIT Lisence<br>
-&#169; 2021 Akshay Vs
+&#169; 2021 santosh
